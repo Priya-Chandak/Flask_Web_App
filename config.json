@@ -1,0 +1,15 @@
+{
+    "params":
+    {
+        "local_server" : "True",
+        "local_uri" : "mysql://priya:root@localhost/webapp",
+        "pro_uri" : "mysql://priya:root@localhost/webapp",
+        "fb_url" : "https://www.facebook.com/priya.chandak.17/",
+        "git_url" : "https://github.com/Priya-Chandak/",
+        "insta_url" : "https://www.instagram.com/piyu.2907/",
+        "company" : "VISHLESHAK TECHNOLOGIES PVT LTD",
+        "blog_title" : "Blog Hub",
+        "blog_tagline" : "Blogs for Technical Person"
+    }
+
+}
